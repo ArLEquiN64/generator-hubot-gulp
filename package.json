@@ -1,14 +1,14 @@
 {
-  "name": "generator-hubot",
-  "version": "0.3.0",
+  "name": "generator-hubot-gulp",
+  "version": "0.0.0",
   "description": "Hubot generator for Yeoman",
   "license": "MIT",
   "main": "generators/app/index.js",
-  "repository": "github/generator-hubot",
+  "repository": "github/generator-hubot-gulp",
   "author": {
-    "name": "Josh Nichols",
-    "email": "josh@technicalpickles.com",
-    "url": "https://github.com/technicalpickles"
+    "name": "ArLE",
+    "email": "ARLEQUIN.prx@gmail.com",
+    "url": "https://github.com/ArLEquiN64"
   },
   "engines": {
     "node": ">=0.10.0"
